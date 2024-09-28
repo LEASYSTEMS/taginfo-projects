@@ -1,0 +1,13 @@
+{
+    "data_format": 1,
+    "data_url": "",
+    "project": {
+        "name": "Bubatzkarte",
+        "description": "Use our app to discover all cannabis prohibition zones in Germany so that you are always on the safe side!",
+        "project_url": "https://bubatzkarte.app",
+        "icon_url": "https://bubatzkarte.app/assets/icons/favicon.webp",
+        "contact_name": "LEA SYSTEMS KG",
+        "contact_email": "kontakt@lea-systems.com"
+    },
+    "tags": []
+}

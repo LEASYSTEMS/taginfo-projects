@@ -1,6 +1,6 @@
 {
     "data_format": 1,
-    "data_url": "",
+    "data_url": "https://raw.githubusercontent.com/LEASYSTEMS/taginfo-projects/refs/heads/lea-systems/lea-systems/bubatzkarte.json",
     "project": {
         "name": "Bubatzkarte",
         "description": "Use our app to discover all cannabis prohibition zones in Germany so that you are always on the safe side!",

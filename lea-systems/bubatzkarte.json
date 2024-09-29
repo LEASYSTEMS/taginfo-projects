@@ -9,5 +9,103 @@
         "contact_name": "LEA SYSTEMS KG",
         "contact_email": "kontakt@lea-systems.com"
     },
-    "tags": []
+    "tags": [
+      {
+        "key": "leisure",
+        "value": "playground"
+      },
+      {
+        "key": "amenity",
+        "value": "school"
+      },
+      {
+        "key": "building",
+        "value": "school"
+      },
+      {
+        "key": "amenity",
+        "value": "childcare"
+      },
+      {
+        "key": "social_facility"
+      },
+      {
+        "key": "leisure",
+        "value": "pitch"
+      },
+      {
+        "key": "leisure",
+        "value": "sports_hall"
+      },
+      {
+        "key": "leisure",
+        "value": "sports_centre"
+      },
+      {
+        "key": "leisure",
+        "value": "horse_riding"
+      },
+      {
+        "key": "leisure",
+        "value": "swimming"
+      },
+      {
+        "key": "leisure",
+        "value": "stadium"
+      },
+      {
+        "key": "leisure",
+        "value": "water_park"
+      },
+      {
+        "key": "leisure",
+        "value": "golf_course"
+      },
+      {
+        "key": "leisure",
+        "value": "indoor_play"
+      },
+      {
+        "key": "military"
+      },
+      {
+        "key": "railway",
+        "value": "military"
+      },
+      {
+        "key": "highway",
+        "value": "military"
+      },
+      {
+        "key": "public_transport",
+        "value": "military"
+      },
+      {
+        "key": "landuse",
+        "value": "military"
+      },
+      {
+        "key": "amenity",
+        "value": "military"
+      },
+      {
+        "key": "leisure",
+        "value": "military"
+      },
+      {
+        "key": "place",
+        "value": "military"
+      },
+      {
+        "key": "building",
+        "value": "military"
+      },
+      {
+        "key": "pedestrian"
+      },
+      {
+        "key": "highway",
+        "value": "pedestrian"
+      }
+    ]
 }

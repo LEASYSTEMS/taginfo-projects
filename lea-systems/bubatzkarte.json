@@ -1,111 +1,93 @@
 {
-    "data_format": 1,
-    "data_url": "https://raw.githubusercontent.com/LEASYSTEMS/taginfo-projects/refs/heads/lea-systems/lea-systems/bubatzkarte.json",
-    "project": {
-        "name": "Bubatzkarte",
-        "description": "Use our app to discover all cannabis prohibition zones in Germany so that you are always on the safe side!",
-        "project_url": "https://bubatzkarte.app",
-        "icon_url": "https://bubatzkarte.app/assets/icons/favicon.webp",
-        "contact_name": "LEA SYSTEMS KG",
-        "contact_email": "kontakt@lea-systems.com"
+  "data_format": 1,
+  "data_url": "https://raw.githubusercontent.com/LEASYSTEMS/taginfo-projects/refs/heads/lea-systems/lea-systems/bubatzkarte.json",
+  "project": {
+    "name": "Bubatzkarte",
+    "description": "Use our app to discover all cannabis prohibition zones in Germany so that you are always on the safe side!",
+    "project_url": "https://bubatzkarte.app",
+    "icon_url": "https://bubatzkarte.app/assets/icons/favicon.webp",
+    "contact_name": "LEA SYSTEMS GmbH & Co. KG",
+    "contact_email": "kontakt@lea-systems.com"
+  },
+  "tags": [
+    {
+      "key": "leisure",
+      "value": "playground",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Playgrounds are forbidden areas."
     },
-    "tags": [
-      {
-        "key": "leisure",
-        "value": "playground"
-      },
-      {
-        "key": "amenity",
-        "value": "school"
-      },
-      {
-        "key": "building",
-        "value": "school"
-      },
-      {
-        "key": "amenity",
-        "value": "childcare"
-      },
-      {
-        "key": "social_facility"
-      },
-      {
-        "key": "leisure",
-        "value": "pitch"
-      },
-      {
-        "key": "leisure",
-        "value": "sports_hall"
-      },
-      {
-        "key": "leisure",
-        "value": "sports_centre"
-      },
-      {
-        "key": "leisure",
-        "value": "horse_riding"
-      },
-      {
-        "key": "leisure",
-        "value": "swimming"
-      },
-      {
-        "key": "leisure",
-        "value": "stadium"
-      },
-      {
-        "key": "leisure",
-        "value": "water_park"
-      },
-      {
-        "key": "leisure",
-        "value": "golf_course"
-      },
-      {
-        "key": "leisure",
-        "value": "indoor_play"
-      },
-      {
-        "key": "military"
-      },
-      {
-        "key": "railway",
-        "value": "military"
-      },
-      {
-        "key": "highway",
-        "value": "military"
-      },
-      {
-        "key": "public_transport",
-        "value": "military"
-      },
-      {
-        "key": "landuse",
-        "value": "military"
-      },
-      {
-        "key": "amenity",
-        "value": "military"
-      },
-      {
-        "key": "leisure",
-        "value": "military"
-      },
-      {
-        "key": "place",
-        "value": "military"
-      },
-      {
-        "key": "building",
-        "value": "military"
-      },
-      {
-        "key": "pedestrian"
-      },
-      {
-        "key": "highway",
-        "value": "pedestrian"
-      }
-    ]
+    {
+      "key": "amenity",
+      "value": "school",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Schools are defined as forbidden areas."
+    },
+    {
+      "key": "building",
+      "value": "school",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Buildings classified as schools are forbidden."
+    },
+    {
+      "key": "amenity",
+      "value": "childcare",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Childcare facilities are considered youth facilities and are forbidden."
+    },
+    {
+      "key": "leisure",
+      "value": "pitch",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Sports pitches are forbidden areas."
+    },
+    {
+      "key": "leisure",
+      "value": "sports_centre",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Sports centres are forbidden areas."
+    },
+    {
+      "key": "military",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Military areas are forbidden."
+    },
+    {
+      "key": "highway",
+      "value": "pedestrian",
+      "object_types": [
+        "node",
+        "way",
+        "area"
+      ],
+      "description": "Pedestrian areas are forbidden."
+    }
+  ]
 }
